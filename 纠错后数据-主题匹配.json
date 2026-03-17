@@ -1,0 +1,32 @@
+[
+{
+    "instruction": "部分公园的绿化养护明显不到位",
+    "input": "",
+    "output":"基础设施配套"
+  },
+  {
+    "instruction": "去库存攻坚战成效显著",
+    "input": "",
+    "output": "规划合理性"
+  },
+  {
+    "instruction": "已造成交通堵塞、侵占非机动车道等问题",
+    "input": "",
+    "output": "交通出行"
+  },
+  {
+    "instruction": "西安在新建社区规划中预留了大量文化空间",
+    "input": "",
+    "output": "历史文化保护"
+  },
+  {
+    "instruction": "地铁站内商业广告过多",
+    "input": "",
+    "output": "规划合理性"
+  },
+  {
+    "instruction": "位于骊兴路以西、骊丰二路以南",
+    "input": "",
+    "output": "交通出行"
+  }
+]
